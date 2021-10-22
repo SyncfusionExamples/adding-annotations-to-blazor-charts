@@ -1,10 +1,10 @@
 ﻿@page "/"
 
 <SfChart Title="Weather Statistics">
-    <ChartSeriesCollection>
-        <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"
+     <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"
                            Title="Days of the Week"></ChartPrimaryXAxis>
         <ChartPrimaryYAxis Title="Temperature Value" LabelFormat=" {value}°C"> </ChartPrimaryYAxis>
+    <ChartSeriesCollection>
         <ChartSeries DataSource="@ChartData" XName="Days" YName="Temperature" Type="ChartSeriesType.Spline">
             <ChartMarker Visible="true" Width="10" Height="10"></ChartMarker>
         </ChartSeries>
