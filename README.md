@@ -43,9 +43,6 @@ dotnet run
 
 4. Open the local URL displayed in the terminal after the application starts. 
 
-## Project Structure
-
-- `Client/Pages/Index.razor` — contains the Syncfusion Blazor Chart implementation, chart series configuration, and annotation definitions that demonstrate annotation positioning using chart point and pixel coordinates.
 
 ## Support and Feedback
 
