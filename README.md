@@ -18,7 +18,7 @@ This sample demonstrates how to add annotations to a Syncfusion [Blazor Chart](h
 - Visual Studio 2026 or Visual Studio Code
 - .NET SDK compatible with the project's target framework
 
-## How to Run the Project
+## How to run the project
 
 **Visual Studio 2026**
 
