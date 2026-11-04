@@ -15,20 +15,18 @@ This sample demonstrates how to add annotations to a Syncfusion [Blazor Chart](h
 
 ## Prerequisites
 
-- Visual Studio 2022 or Visual Studio Code
+- Visual Studio 2026 or Visual Studio Code
 - .NET SDK compatible with the project's target framework
 
-## How to Run the Project
+## How to run the project
 
-**Visual Studio 2022**
+**Visual Studio 2026**
 
 1. Clone or download this repository.
-2. Open the verified solution file `AddingAnnotationToChart.sln`.
+2. Open the verified solution file `AddingAnnotationToChart.csproj`.
 3. Restore all NuGet packages.
-4. Set the appropriate startup project if Visual Studio does not automatically select it.
-5. Build the solution.
-6. Run the application using `Ctrl+F5`.
-7. The application will launch using the local URL configured by the project's launch settings.
+4. Build the project.
+5. Run the application using `Ctrl+F5`.
 
 **Visual Studio Code**
 
